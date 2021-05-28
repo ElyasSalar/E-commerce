@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 0 0 30px 0;
+}
+.options{
+    display: flex;
+    justify-content: space-between;
+    flex: 0 1 12%;
+}
+.option{
+    color: black;
+    text-decoration: none;
+}
